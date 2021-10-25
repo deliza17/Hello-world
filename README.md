@@ -1,2 +1,1 @@
-# Hello-world
-Best project ever
+Hello world!
